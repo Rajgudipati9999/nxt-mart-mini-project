@@ -88,3 +88,19 @@
   border-radius: 8px;
   color: #b3b3b3;
 }
+
+
+@media (min-width: 1024px) {
+  .bg-layer {
+    width: 50%;
+    height: 50%;
+  }
+
+  /* Top row */
+  .bg1 { top: 0; left: 0; }
+  .bg2 { top: 0; left: 50%; }
+
+  /* Bottom row */
+  .bg3 { top: 50%; left: 0; }
+  .bg4 { top: 50%; left: 50%; }
+}
