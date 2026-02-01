@@ -103,9 +103,12 @@
   /* Bottom row */
   .bg3 { top: 50%; left: 0; }
   .bg4 { top: 50%; left: 50%; }
+<<<<<<< HEAD
 
   .login-form {
       height: 80vh;
       width: 100vw;
   }
+=======
+>>>>>>> 1efc2fbd45cb6869cf430eeae1e0c0c0c788bf4a
 }
